@@ -1,6 +1,6 @@
 # US AK QAGAN TAYAGUNGIN TRIBE OF SAND POINT - Litigation Framework
 
-**Template:** GRA litigation framework
+**Template:** CUBA-adapted framework
 **Generated:** 2026-11-21
 **Status:** SCAFFOLD - verification required. No fabricated citations.
 
